@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.Hamster {
+  margin-top: 100px;
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  font-family: "Libre Baskerville", sans-serif;
+}
+
+#Pic {
+  border: 5px solid white;
+  width: 100%;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 2rem;
+}
